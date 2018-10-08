@@ -1,0 +1,60 @@
+/******* Header Style ********/
+
+header 
+{
+	background-color: grey;
+	margin-top: 0px;
+	padding: 5px 5px 5px 5px;
+}
+
+header a
+{
+	float: left;
+	text-decoration: none;
+	color: #c5c998;
+	font-size: 16px;
+}
+
+header h1
+{
+	font-style: italic;
+	color: yellow;
+	text-align: center;
+}
+
+/********** Main Section **********/
+
+.advice 
+{
+	background-color: #c5c998;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 1px 2px 1px;
+}
+
+.advice h4
+{
+	font-size: 22px;
+	font-weight: bolder;
+	color: yellow;
+}
+
+.advice p
+{
+	font-size: 18px;
+}
+
+/******** Footer **********/
+
+footer
+{
+	background-color: grey;
+	padding: 2px 2px 2px 2px;
+	text-align: center;
+	color: yellow;
+}
+
+footer p
+{
+	font-size: 18px;
+    font-weight: bold;
+}
